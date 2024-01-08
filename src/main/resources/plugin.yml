@@ -1,0 +1,4 @@
+name: YakitoriServerBase
+version: '${version}'
+main: tk.yakitori.yakitoriserverbase.YakitoriServerBase
+api-version: '1.20'
