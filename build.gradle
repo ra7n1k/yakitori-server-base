@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'tk.yakitori'
-version = '0.0.2'
+version = '0.3.8'
 
 repositories {
     mavenCentral()
